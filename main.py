@@ -3,7 +3,7 @@ import time
 
 st.title('Streamlit 超入門')
 
-st.write('プログレスバーの表示')
+st.write('プログレスバーの表示だよ')
 
 latest_iteration = st.empty()
 bar = st.progress(0)
